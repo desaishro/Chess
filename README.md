@@ -4,16 +4,6 @@ Here’s the updated README.md for your chess project without an AI opponent:
 Chess Game Project
 Welcome to the Chess Game project! This is a web-based chess game designed for two players to play against each other. The project implements the rules of chess in an interactive and user-friendly interface.
 
-Table of Contents
-Overview
-Features
-Technologies Used
-Setup and Installation
-How to Play
-Screenshots
-Future Enhancements
-Author
-License
 Overview
 This project is a browser-based chess game where two players can compete against each other. It offers a clean and intuitive interface with accurate implementation of standard chess rules, ensuring a fun and engaging experience.
 
