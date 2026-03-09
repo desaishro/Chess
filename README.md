@@ -165,10 +165,3 @@ Add visual or sound notifications for:
 - Illegal moves
 
 ---
-
-# 👨‍💻 Author
-
-**Shreyas Desai**
-
-GitHub: https://github.com/desaishro  
-Email: desaishreya658@gmail.com
