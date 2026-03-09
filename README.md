@@ -2,8 +2,6 @@
 
 Chess Game is a browser-based chess application that allows two players to play chess against each other on the same device. The project implements official chess rules with an interactive and responsive interface, providing an engaging experience for casual and competitive players.
 
-🔗 Live Demo: (Add your deployed link here)
-
 ---
 
 ## 📑 Table of Contents
